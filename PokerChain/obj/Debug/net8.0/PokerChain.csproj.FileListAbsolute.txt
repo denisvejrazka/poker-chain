@@ -1,0 +1,14 @@
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/bin/Debug/net8.0/PokerChain
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/bin/Debug/net8.0/PokerChain.deps.json
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/bin/Debug/net8.0/PokerChain.runtimeconfig.json
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/bin/Debug/net8.0/PokerChain.dll
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/bin/Debug/net8.0/PokerChain.pdb
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/obj/Debug/net8.0/PokerChain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/obj/Debug/net8.0/PokerChain.AssemblyInfoInputs.cache
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/obj/Debug/net8.0/PokerChain.AssemblyInfo.cs
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/obj/Debug/net8.0/PokerChain.csproj.CoreCompileInputs.cache
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/obj/Debug/net8.0/PokerChain.dll
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/obj/Debug/net8.0/refint/PokerChain.dll
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/obj/Debug/net8.0/PokerChain.pdb
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/obj/Debug/net8.0/PokerChain.genruntimeconfig.cache
+/Users/denisvejrazka/Projects/PokerChain/PokerChain/obj/Debug/net8.0/ref/PokerChain.dll
