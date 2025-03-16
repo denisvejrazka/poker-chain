@@ -12,6 +12,6 @@ This repository contains a **poker game** implemented in **C# from scratch**, ut
 - **Chain of Responsibility** design pattern
 
 ## Usage
-1. Clone the repository:
+Clone the repository:
    ```sh
-   [git clone https://github.com/denisvejrazka/poker-chain.git]
+   git clone https://github.com/denisvejrazka/poker-chain.git
