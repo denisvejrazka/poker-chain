@@ -13,5 +13,6 @@ This repository contains a **poker game** implemented in **C# from scratch**, ut
 
 ## Usage
 Clone the repository:
-   ```sh
+   ```bash
    git clone https://github.com/denisvejrazka/poker-chain.git
+Make sure you have .NET installed on your machine to run the application.
